@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá eu sou o Aryelson Tevis ✌️
 
-<!--
-**AryelsonTevis/AryelsonTevis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/AryelsonTevis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryelsonTevis&show_icons=true&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryelsonTevis&layout=compact&card_width=200&langs_count=7&theme=codeSTACKr"/>
+</div>
 
-Here are some ideas to get you started:
+## Tecnologias que eu utilizo 📱
+<div style="display: inline_blok">
+    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+   
+    
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_blok">
+
+ ## Minhas redes sociais 📌
+ 
+ <a href="https://www.linkedin.com/in/aryelson-tevis-551348252/" target="_blank">
+        <img align="center" alt="email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+ 
+</div><br>
