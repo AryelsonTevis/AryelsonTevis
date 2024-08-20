@@ -1,10 +1,6 @@
 ### Olá eu sou o Aryelson Tevis ✌️
-
-<div align="center">
-  <a href="https://github.com/AryelsonTevis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryelsonTevis&show_icons=true&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryelsonTevis&layout=compact&card_width=200&langs_count=7&theme=codeSTACKr"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryelsonTevis&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryelsonTevis&layout=compact&theme=transparent)
 
 ## Tecnologias que eu utilizo 📱
 <div style="display: inline_blok">
