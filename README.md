@@ -1,6 +1,7 @@
 ### Olá eu sou o Aryelson Tevis ✌️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryelsonTevis&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryelsonTevis&layout=compact&theme=transparent)
+
+💻 Desenvolvedor em formação (JavaScript / Node.js)  
+🎯 Foco: Back-end e aplicações web completas  
 
 ## Tecnologias que eu utilizo 📱
 <div style="display: inline_blok">
