@@ -1,6 +1,6 @@
 ### Olá eu sou o Aryelson Tevis ✌️
 
-💻 Desenvolvedor em formação (JavaScript / Node.js)  
+💻 Desenvolvedor em formação (Java / Node.js)  
 🎯 Foco: Back-end e aplicações web completas  
 
 ## Tecnologias que eu utilizo 📱
